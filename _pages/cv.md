@@ -29,8 +29,13 @@ Providence, RI, USA Graduated May 2018<br />
 
 Research Experience
 ======
+* <b>Postdoctoral Research Fellow, The Francis Crick Institute</b>	
+  <br />London, UK June 2024 – Present
+
+<p style="margin-left: 40px">Apply statistics such as pair correlation functions to quantify spatial organisation within the microenvironment of tumours and link these descriptions with mechanistic mathematical models. Collaborate with experimental biologists to analyse images of mouse and human lung cancer biopsies. Construct mechanistic mathematical models of tumour-immune interactions to evaluate the extent to which spatial statistics can capture causative information. Train machine learning models on these quantitative descriptions to better predict patient outcomes from available data.</p> 
+
 * <b>INI-Simons Postdoctoral Research Fellow, University of Cambridge</b>	
-  <br />Cambridge, UK July 2023 – Present
+  <br />Cambridge, UK July 2023 – May 2024
 
 <p style="margin-left: 40px">Granted a one-year postdoctoral fellowship funded by the Isaac Newton Institute (INI) and the Simons Foundation to attend the programme “Mathematics of Movement” and build an international collaborative network. Conduct independent research in the mathematical modelling of collective movement. Unite techniques from data science, statistics, and mathematical biology to create novel data-driven models to assess the impact of individual heterogeneity on collective behaviour.</p> 
 

@@ -23,7 +23,7 @@ My applications span a diverse set of phenomena across biology and ecology, incl
 
 ## 1) Understanding the reciprocal interactions between collective movement and individual surroundings
 
-![image](../images/ResearchImage1.tif)
+![image](../images/ResearchImage1.png)
 
 I am interested in understanding how collective movement alters, and is itself affected by, the surroundings in which individuals travel. My previous research highlights a potentially important role for the "environment" that individuals occupy: for instance, one [investigation](https://elifesciences.org/articles/83792) from my doctorate studies suggests that the microenvironment through which certain stem cells move controls the robustness and success of their long-distance migration. Additional results from that study also highlighted the potential for the microenvironment to &quot;encode&quot; prior cell movements. Along with several biological collaborators, I am developing simple mathematical models to produce experimentally testable predictions on how the geometry through which cells move influences the stability of their moving populations. I am also using these mathematical models to determine whether it is possible to design computational tools to infer prior cell behaviours based on observations of their microenvironment.
 
@@ -33,7 +33,7 @@ The above photo shows a cropped image from [(Martinson et al., <i>eLife</i> 2023
 
 ## 2) Linking mathematical models to individual-based data
 
-![image](../images/ResearchImage2.pdf)
+![image](../images/ResearchImage2.png)
 
 I am interested in creating novel methods that connect mathematical models to individual-level data, such as those typically collected from biological experiments. Even in an idealised setting, where the data come from another mathematical model with known parameters, this problem can be difficult to address. One [investigation](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.062417) early in my doctorate studies, for instance, found that an established model for cell movement needed to be altered to sufficiently match synthetic data, even though the data themselves were generated using identical rules for how cells move and divide. However, that paper also showed that it was possible to correct for such errors, and [other studies](https://link.springer.com/article/10.1007/s00285-021-01570-w) demonstrated how this corrected model could be thought of as the &quot;simplest&quot; mathematical model that could accurately describe the biological system, since it gave identical solutions as more complicated models for biologically relevant conditions.
 

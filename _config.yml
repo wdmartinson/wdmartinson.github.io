@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : # "Earth"
-  employer         : "University of Cambridge"
+  employer         : "Francis Crick Institute"
   uri              : # URL
-  email            : "william.martinson@maths.ox.ac.uk" 
+  email            : "duncan.martinson@crick.ac.uk" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/q-bio?searchtype=author&query=Martinson,+W+D"

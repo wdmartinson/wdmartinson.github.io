@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-==================
 I am a Postdoctoral Research Fellow in the Tumour Cell Biology Lab (Principl Investigator: [Dr. Erik Sahai](https://www.crick.ac.uk/research/labs/erik-sahai)) of the Francis Crick Institute. My current research focuses on uncovering mechanisms that govern the evolution of tumor microenvironments through the creation and calibration of data-driven mathematical models. Prior to this role, I was a Postdoctoral Research Fellow at the [Isaac Newton Institute](https://www.newton.ac.uk/) (July 2023 - May 2024) and a Postdoctoral Research Associate at the University of Oxford (Principal Investigator: [Prof. José Carrillo](https://www.maths.ox.ac.uk/people/jose.carrillodelaplata); January 2022 - July 2023), where I studied theoretical frameworks that described the collective movement of cells and animals. I completed my doctorate in Mathematics at the University of Oxford, where I was supervised by [Prof. Philip Maini](https://people.maths.ox.ac.uk/maini/) and [Prof. Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne). My thesis projects studied mathematical modelling of collective cell movement in biological contexts where two types of cells---leaders and followers, respectively---could be distinguished. Before arriving in the United Kingdom, I completed my undergraduate degree (Sc. B.) in Applied Mathematics-Biology at Brown University.
 <!-- and grew up in Evanston, IL, USA (a suburb of Chicago). -->
 
